@@ -10,3 +10,4 @@ $("button").click(function(){
     $("#result").append(beg2+end1+' '+beg1+end2);
 });
 });
+$("").click(function()
